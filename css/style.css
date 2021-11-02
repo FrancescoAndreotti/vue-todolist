@@ -1,0 +1,7 @@
+.my-border{
+  border-left: 4px solid #ff0000
+}
+.my-btn-close{
+  position: absolute;
+  right: 5px;
+}
